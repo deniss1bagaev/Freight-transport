@@ -1,0 +1,263 @@
+*,*::after,*::before{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    }
+*{
+    box-sizing: border-box;
+}
+body{
+    min-width: 2524px;
+}
+a{
+    text-decoration: none;
+}
+.color{
+    width: 1330px;
+    height: 50px;
+    background-color: #C8A35F;
+    color: white;
+}
+.tyt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.ooo{
+    margin: 15px;
+}
+.General{
+    position: absolute;
+    width: 100%;
+    height: 2524px;
+    left: 0px;
+   background-color: #2F343A;
+}
+.www{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.eee{
+    width: 100%;
+    height: 550px;
+    margin-bottom: -5px;
+}
+.Picture{
+    margin: 0;
+    padding: 0;
+}
+.bbb{
+    width: 600px;
+    height: 200px;
+    border: solid 1px bisque;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 160px;
+    margin-left: 360px;
+}
+.mmm{
+    position: absolute;
+    color: black;
+}
+.mmm h1{
+    text-align: center;
+}
+.mmm p{
+    text-align: center;
+}
+.Car{
+    width: 100%;
+    height: 400px;
+    background-color: gray;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+}
+.one{
+    margin: 100px;
+}
+.stick{
+    width: 70px;
+    height: 5px;
+    background-color: #C8A35F;
+    border-radius: 50px;
+    border: solid 1px black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.butt{
+    position: absolute;
+    width: 220px;
+    height: 55px;
+    border: solid 2px black;
+    background-color: #C8A35F;
+    color: white;
+}
+.vbn{
+    text-align: center;
+    line-height: 50px;
+}
+.asd{
+    width: 200px;
+    height: 55px;
+    background-color: #C8A35F;
+    border-radius: 10px;
+}
+.one{
+    display: inline-block;
+    margin-top: 105px;
+    width: 300px;
+}
+.butt{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.two{
+    display: inline-block;
+}
+.image{
+    width: 300px;
+    height: 200px;
+    margin-top: 85px;
+    margin-left: 100px;
+}
+.three{
+    display: inline-block;
+    width: 545px;
+}
+.four{
+    display: block;
+    color: #C8A35F;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding-left: 27.5%;
+    padding-top: 50px;
+}
+.four h1{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    margin-right: 100px;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+}
+.hop{
+    margin-bottom: 200px;
+}
+.main{
+    margin-top: 400px;
+    position: absolute;
+    color: white;
+}
+.box{
+    margin: 100px;
+}
+.ioi{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.air{
+    width: 1100px;
+    height: 360px;
+}
+.nin{
+    display: flex;
+}
+.lol{
+    width: 275px;
+    height: 180px;
+    margin: 1px;
+    background-color: #393F47;
+    text-align: center;
+}
+.qiq{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #C8A35F;
+    margin-left: 112.5px;
+    margin-top: 20px;
+}
+.tat{
+    padding: 20%;
+}
+.fox{
+    margin: 100px;
+    display: flex;
+}
+.non{
+    width: 445px;
+}
+.mog{
+    width: 550px;
+    height: 200px;
+    margin-left: 105px;
+    display: flex;
+}
+.crc{
+    width: 200px;
+    height: 150px;
+    margin: 1px;
+    background-color: white;
+    z-index: 1;
+    color: #2F343A;
+    text-align: center;
+    
+}
+.bnb{
+    display: flex;
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+h3{
+    padding-top: 80px;
+}
+.fef{
+    width: 200px;
+    height: 151px;
+    margin-bottom: 2px;
+}
+.maps{
+    box-sizing: border-box;
+}
+.joj{
+    width: 1327px;
+    height: 150px;
+    background-color: #C8A35F;
+    box-sizing: border-box;
+}
+.vaw{
+    margin-bottom: -5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 22.5px;
+}
+.yyy{
+    width: 310px;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+@media (max-width: 2524px){
+    
+}
